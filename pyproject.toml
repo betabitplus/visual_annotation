@@ -29,7 +29,7 @@ dependencies = [
   "numpy",
   "opencv-python>=4.5.5.64",
   "pillow",
-  "py-lib-runtime @ git+https://github.com/betabitplus/py-lib-starter.git@v0.26.18#subdirectory=packages/py-lib-runtime",
+  "py-lib-runtime @ git+https://github.com/betabitplus/py-lib-starter.git@v0.26.19#subdirectory=packages/py-lib-runtime",
   "supervision",
 ]
 # --- Project URLs ---
@@ -61,7 +61,7 @@ dev = [
   "pip-audit>=2.10.1",
   "pre-commit>=4.6.0",
   # Shared repo tooling and test support
-  "py-lib-tooling @ git+https://github.com/betabitplus/py-lib-starter.git@v0.26.18#subdirectory=packages/py-lib-tooling",
+  "py-lib-tooling @ git+https://github.com/betabitplus/py-lib-starter.git@v0.26.19#subdirectory=packages/py-lib-tooling",
   "pyright>=1.1.410",
   # Test runner and plugins
   "pytest>=9.1.0",
